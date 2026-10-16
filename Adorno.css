@@ -1,0 +1,17 @@
+*{
+    text-align:after;
+    color:blue;
+    font-family:Arial;
+    font-size:15px;
+}
+
+a{
+ 
+    color:rgb(221,0,0);
+    text-decoration:none;
+}
+a:hover{
+    color: darkblue;
+    font-size: large;
+    text-decoration: none;
+}

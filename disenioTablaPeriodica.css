@@ -1,0 +1,12 @@
+table{
+    border-radius:2cm;
+    border-color:blueviolet;
+    background:blue;
+    color:white;
+    text-align: center;
+    align-items:center;
+}
+td{
+    background:white;
+    color:blue;
+}
